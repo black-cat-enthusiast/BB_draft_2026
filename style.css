@@ -1,0 +1,9 @@
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("images/BB_28.jpg") no-repeat center center;
+  background-size: cover;
+  opacity: 0.15;
+  z-index: -1;
+}
